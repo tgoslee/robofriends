@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Frozen Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Frozen Regular'), url('Frozen.ttf') format('woff');
+}
+
+
+h1 {
+    font-family: 'Frozen Regular';
+    font-weight: 200;
+    color: aliceblue;
+}
