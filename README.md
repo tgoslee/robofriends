@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-RoboFriends is an simple App used to leaen React
+RoboFriends is an simple App used to learn React
 ## Available Scripts
 
 In the project directory, you can run:
